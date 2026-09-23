@@ -1,0 +1,20 @@
+# HFSS generated results and temporary files
+*.aedtresults/
+*.aedt.lock
+*.aedt.auto
+*.aedt.bak
+*.aedt.backup
+*.asol
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
